@@ -1,3 +1,3 @@
-stremlit
+streamlit
 groq
 python-dotenv
